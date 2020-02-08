@@ -7,9 +7,10 @@ CONVENTIONAL_PRODUCE = ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplan
 def assembled_matrix
 
 produce_storage_room = [
-
-  organic_produce = "Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"
-  conventional_produce = "Grapefruit", "Pineapple" ,"Oranges" ,"Watermelon" ,"Eggplant"
+ORGANIC_PRODUCE,
+CONVENTIONAL_PRODUCE
+  #organic_produce = "Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"
+  #conventional_produce = "Grapefruit", "Pineapple" ,"Oranges" ,"Watermelon" ,"Eggplant"
 ]
 produce_storage_room
   # Build an array that contains both of the above arrays
