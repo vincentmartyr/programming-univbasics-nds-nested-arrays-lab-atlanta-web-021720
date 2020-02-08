@@ -8,7 +8,7 @@ organic_produce = [
   "Asparagus"
 ]
 
-conventtinal_produce = [
+conventional_produce = [
   "Grapefruit",
   "Pineapple",
   "Oranges",
