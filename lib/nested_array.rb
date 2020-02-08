@@ -1,39 +1,15 @@
 # Examples inspired by U. S. National Organic Standards
 
-organic_produce = [
-  "Strawberries",
-  "Potatoes",
-  "Grapes",
-  "Avocadoes",
-  "Asparagus"
-]
+ORGANIC_PRODUCE = ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
 
-conventional_produce = [
-  "Grapefruit",
-  "Pineapple",
-  "Oranges",
-  "Watermelon",
-  "Eggplant"
-]
+CONVENTIONAL_PRODUCE = ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"]
 
 def assembled_matrix
 
 produce_storage_room = [
 
-  ORGANIC_PRODUCE = [
-    "Strawberries",
-    "Potatoes",
-    "Grapes",
-    "Avocadoes",
-    "Asparagus"
-  ]
-  CONVENTIONAL_PRODUCE = [
-    "Grapefruit",
-    "Pineapple",
-    "Oranges",
-    "Watermelon",
-    "Eggplant"
-  ]
+  organic_produce = ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
+  conventional_produce = ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"]
 ]
 
   # Build an array that contains both of the above arrays
