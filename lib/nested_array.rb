@@ -33,6 +33,7 @@ produce_storage_room = [
 end
 
 def matrix_lookup(matrix, row, column)
+martrix[row][column]
   # Given any matrix (array of arrays), a row index and a column index,
   # Return the matrix's content at that row and and column
 end
