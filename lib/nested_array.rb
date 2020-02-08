@@ -1,6 +1,6 @@
 # Examples inspired by U. S. National Organic Standards
 
-ORGANIC_PRODUCE = [
+organic_produce = [
   "Strawberries",
   "Potatoes",
   "Grapes",
@@ -8,7 +8,7 @@ ORGANIC_PRODUCE = [
   "Asparagus"
 ]
 
-CONVENTIONAL_PRODUCE = [
+conventtinal_produce = [
   "Grapefruit",
   "Pineapple",
   "Oranges",
@@ -17,7 +17,9 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
+
 produce_storage_room = [
+
   ORGANIC_PRODUCE = [
     "Strawberries",
     "Potatoes",
